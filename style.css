@@ -4,10 +4,10 @@ body {
 
 h1 {
     color: white;
-    text-align: center;
+    text-align:center;
 }
 
 p {
-    font-family: comicsansms;
+    font-family:comicsansms;
     font-size: 20px;
 }
